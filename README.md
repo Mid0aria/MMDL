@@ -45,7 +45,6 @@ git clone https://github.com/Mid0aria/MMDL
 # Enter into the cloned directory:
 cd MMDL
 
-
 # Run the MMDL:
 python mmdl.py
 ```
