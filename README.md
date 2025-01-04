@@ -51,15 +51,23 @@ python mmdl.py
 
 ## 📷・Screenshots
 
+### Main Menu:
+
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/mainmenu.png)
 
+### Change Language:
+
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/changelanguage.png)
+
+### Add New Mods:
 
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/addnewmods_1.png)
 
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/addnewmods_2.png)
 
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/addnewmods_3.png)
+
+### Download Added Mods:
 
 ![](https://raw.githubusercontent.com/Mid0aria/MMDL/main/images/downloadaddedmods_1.png)
 
