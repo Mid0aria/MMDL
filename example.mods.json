@@ -1,5 +1,6 @@
 {
     "mods": [
+        "https://modrinth.com/mod/essential",
         "https://modrinth.com/mod/fabric-api",
         "https://modrinth.com/mod/fabric-language-kotlin",
         "https://modrinth.com/mod/forge-config-api-port",
@@ -31,6 +32,7 @@
         "https://modrinth.com/plugin/tps-hud",
         "https://modrinth.com/mod/visuality",
         "https://modrinth.com/mod/yacl",
-        "https://modrinth.com/mod/zoomify"
+        "https://modrinth.com/mod/zoomify",
+        "https://modrinth.com/mod/female-gender"
     ]
 }
